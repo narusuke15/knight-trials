@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - FallingZone
+  - Solid
+  - EnemyProjectile
+  - PlayerProjectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Creature
+  - Solid
+  - EnemyProjectile
+  - UnWalkable
+  - PlayerProjectile
+  - Radar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 3341429499
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 3473970663
+    locked: 0
+  - name: Entities
+    uniqueID: 3326607275
+    locked: 0
+  - name: Effect
+    uniqueID: 3787500241
+    locked: 0
+  - name: UI
+    uniqueID: 633881607
+    locked: 0
